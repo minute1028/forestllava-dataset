@@ -1,5 +1,7 @@
 # Forest-LLaVA 多模态树种数据集
 
+English version: [README.md](README.md)
+
 本仓库提供 Forest-LLaVA 数据集与论文对应的划分 CSV。约 13 GiB 的 Optical、MSI 和 SAR TIFF 影像将单独发布到 [Forest-LLaVA Hugging Face 数据集仓库](https://huggingface.co/datasets/minute1028/forestllava-dataset)；该链接可能需要等影像仓库创建完成后才能访问。
 
 ## 仓库内容

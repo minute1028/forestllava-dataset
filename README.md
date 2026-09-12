@@ -1,5 +1,7 @@
 # Forest-LLaVA multimodal tree-species dataset
 
+中文说明：[README.zh-CN.md](README.zh-CN.md)
+
 This repository provides the paper-aligned split CSVs for the Forest-LLaVA multimodal tree-species dataset. The large Optical, MSI and SAR image collection will be released separately through the [Hugging Face dataset repository](https://huggingface.co/datasets/minute1028/forestllava-dataset) after the image release has been finalized. The link may remain unavailable until that repository is created.
 
 ## Repository contents
