@@ -1,0 +1,15 @@
+*.tif
+*.tiff
+*.jp2
+*.zip
+*.tar
+*.tar.gz
+*.7z
+*.pt
+*.pth
+*.ckpt
+data/
+images/
+archives/
+__pycache__/
+*.pyc
